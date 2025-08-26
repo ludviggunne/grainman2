@@ -1,0 +1,5 @@
+*.o
+*.d
+grainman
+port-connect
+port-list
